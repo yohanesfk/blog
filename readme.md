@@ -1,5 +1,3 @@
-Bagi yang ingin tutorial instalasi project ini silahkan cek https://youtu.be/XpGbmo3ZctE
-
 Intruksi manual
 Ketikkan:
 1. Composer Install
